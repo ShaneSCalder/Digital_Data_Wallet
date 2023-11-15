@@ -51,8 +51,6 @@ The Digital Data Wallet is a ground breaking solution designed to revolutionize 
    - **Impact**: Assures businesses and users of its adherence to legal requirements, reducing compliance risks.
 
 ### Conclusion
-The Digital Data Wallet represents a significant step forward in personal data management, offering unparalleled security, user control, and ease of use. It stands as a testament to innovation in the digital age, where data security and privacy are paramount.
-<br>
+The Digital Data Wallet represents a significant step forward in personal data management, offering unparalleled security, user control, and ease of use. It stands as a testament to innovation in the digital age, where data security and privacy are paramount. <br>
 Website: https://www.digitaldatawallet.com
-![image](https://github.com/ShaneSCalder/Digital_Data_Wallet/assets/29208274/4e4681aa-8d40-4ea8-ae23-9b3592563a16)
 
